@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAADH///6k\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 27
+      },
+      "writtenOn": "2011-03-11T08:29:12Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "1faa354ae98e8551c0429bd1ca8d78913a5d57d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAADH///6g\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 27
+      },
+      "writtenOn": "2011-03-11T08:29:12Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "1faa354ae98e8551c0429bd1ca8d78913a5d57d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
