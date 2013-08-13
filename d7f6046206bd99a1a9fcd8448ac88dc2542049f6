@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_9a54ec54",
+        "filename": "overlay/packages/apps/Trebuchet/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 5063
+      },
+      "writtenOn": "2013-08-13T12:26:04Z",
+      "side": 1,
+      "message": "I agree this is better in landscape, but in portrait, a seven-column layout is terribly cramped.  I\u0027d prefer we leave the default and let people who want more icons configure it themselves.",
+      "revId": "d7f6046206bd99a1a9fcd8448ac88dc2542049f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
