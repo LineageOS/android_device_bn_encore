@@ -16,6 +16,24 @@
       "revId": "9b212d233d827b04d24abb230abd1442bd4ea7e9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_eb2ae12b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 5063
+      },
+      "writtenOn": "2014-02-01T08:37:01Z",
+      "side": 1,
+      "message": "The argument being passed to the command isn\u0027t new with CM11.  In any case, without having it here, the last command is \"/system/bin/sync arg\", which works fine because sync ignores all of its arguments.",
+      "parentUuid": "fade3982_cb5d5dee",
+      "revId": "9b212d233d827b04d24abb230abd1442bd4ea7e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
