@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_cb5d5dee",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2014-02-01T05:49:46Z",
+      "side": 1,
+      "message": "I\u0027m not sure of those changes already fixed issue but should be terminated with \u0027\\#\u0027?\n\nPlease read android_reboot.c https://github.com/CyanogenMod/android_system_core/blob/cm-11.0/libcutils/android_reboot.c#L114\n\nI hadn\u0027t tested without \u0027\\#\u0027 while I was fixing that issue on otter,though.",
+      "revId": "9b212d233d827b04d24abb230abd1442bd4ea7e9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
